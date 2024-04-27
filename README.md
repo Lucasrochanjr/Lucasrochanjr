@@ -1,4 +1,4 @@
-- 👋 Olá, sou Lucas Rocha, estudante do curso de Análise e Desenvolvimento de Sistemas (ADS) na PUC MINAS (EAD). Sou um entusiasta da programação e estou ansioso para aprender e contribuir para a comunidade de desenvolvedores.
+- 👋 Olá, sou Lucas Rocha, estudante do curso de Análise e Desenvolvimento de Sistemas (ADS) na PUC MINAS. Sou um entusiasta da programação e estou ansioso para aprender e contribuir para a comunidade de desenvolvedores.
 - 👀 Estou interessado em diversas áreas da programação, incluindo desenvolvimento web, inteligência artificial e Javascrip.
 - 🌱 I’m currently learning HTML, CSS, JavaScript, focado em Desenvolvimento de Aplicação Web Front-End.
 - 💞️ I’m looking to collaborate on em projetos de código aberto onde posso aprender e contribuir com minha experiência.
