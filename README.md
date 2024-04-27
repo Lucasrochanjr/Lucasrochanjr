@@ -5,8 +5,9 @@
 - 📫 How to reach me pelo meu e-mail: lucasrochanjr8@gmail.com
 - 😄 Pronouns: Ele/dele.
 - ⚡ Fun fact: Sou apaixonado por música e toco violão nas horas vagas.
-- 
-[![Estatísticas do GitHub de Lucas Rocha](https://github-readme-stats.vercel.app/api?username=Lucasrochanjr&show_icons=true&theme=radical)](https://github.com/Lucasrochanjr)
+  
+-[![Estatísticas do GitHub de Lucas Rocha](https://github-readme-stats.vercel.app/api?username=Lucasrochanjr&show_icons=true&theme=radical)](https://github.com/Lucasrochanjr)
+
 <!---
 Lucasrochanjr/Lucasrochanjr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
