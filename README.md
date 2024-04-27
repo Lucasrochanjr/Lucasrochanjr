@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning HTML, CSS, JavaScript, focado em Desenvolvimento de Aplicação Web Front-End.
 - 💞️ I’m looking to collaborate on em projetos de código aberto onde posso aprender e contribuir com minha experiência.
 - 📫 How to reach me pelo meu e-mail: lucasrochanjr8@gmail.com
-- 😄 Pronouns:Ele/dele.
-- ⚡ Fun fact:Sou apaixonado por música e toco violão nas horas vagas.
+- 😄 Pronouns: Ele/dele.
+- ⚡ Fun fact: Sou apaixonado por música e toco violão nas horas vagas.
 
 <!---
 Lucasrochanjr/Lucasrochanjr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
